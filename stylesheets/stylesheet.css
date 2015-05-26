@@ -877,8 +877,9 @@ footer a:hover {
 
 .menu-button {
   text-size:20px;
-  position: inline-block;
+  position: relative;
   background-color: #93F;
   height: 50px;
   width: 150px;
+  border: 2px solid black;
 }
