@@ -877,8 +877,6 @@ footer a:hover {
 
 #menu-button {
   text-size: 20px;
-  position: relative;
-  display: inline;
   text-align: center;
   background-color: #339;
   height: 50px;
@@ -888,5 +886,6 @@ footer a:hover {
 }
 
 #menu-button-text {
+  display: inline;
   color:black;
 }
