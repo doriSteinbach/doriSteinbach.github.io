@@ -886,5 +886,7 @@ footer a:hover {
 }
 
 #menu-button-text {
+  display: inline;
+  text-align: center;
   color:black;
 }
