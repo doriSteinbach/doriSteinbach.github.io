@@ -875,13 +875,16 @@ footer a:hover {
 
 /* Dori Steinbach's code from here on out. I apologize for the horrors. */
 
-.menu-button {
-  text-size:20px;
+#menu-button {
+  text-size: 20px;
   position: relative;
   background-color: #339;
   height: 50px;
   width: 150px;
   border: 2px solid #1F0F26;
   border-radius: 5px; 
-  color: black;
+}
+
+#menu-button-text {
+  color:black;
 }
