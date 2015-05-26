@@ -536,15 +536,6 @@ header a.button {
   right: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
-/*
-aside a.button {
-  display: block;
-  width: 138px;
-  padding-left: 64px;
-  margin-bottom: 20px;
-  font-size: 21px;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
-}*/
 
 code, pre {
   margin-bottom: 30px;
@@ -880,3 +871,14 @@ footer a:hover {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
+
+
+/* Dori Steinbach's code from here on out. I apologize for the horrors. */
+
+.menu-button {
+  text-size:20px;
+  position: inline-block;
+  background-color: #93F;
+  height: 50px;
+  width: 150px;
+}
