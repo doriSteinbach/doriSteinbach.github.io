@@ -1,1 +1,5 @@
-console.log('This would be the main JS file.');
+var main = function() {
+  
+}
+
+$(documents).ready(main);
