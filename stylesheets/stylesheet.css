@@ -878,8 +878,10 @@ footer a:hover {
 .menu-button {
   text-size:20px;
   position: relative;
-  background-color: #93F;
+  background-color: #1F0F26;
   height: 50px;
   width: 150px;
-  border: 2px solid black;
+  border: 2px solid #1F0F26;
+  border-radius: 5px; 
+  font-color: black;
 }
