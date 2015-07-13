@@ -9,11 +9,17 @@ body, html {
     background-color:#751975;
 }
 
-header h1 {
+.header h1 {
     display: inline;
 }
 
 #follow-menu-button {
+    display: inline;
+    float:right;
+    margin-right: 1em;
+}
+
+#follow-menu-button p {
     display: inline;
 }
 
