@@ -17,6 +17,7 @@ body, html {
     display: inline;
     float:right;
     margin-right: 1em;
+    margin-top: 10px;
 }
 
 #follow-menu-button p {
@@ -34,7 +35,11 @@ body, html {
 }
 .navigation p {
     display: inline;
-    margin-left: 5px;
-    margin-right: 10px;
+    margin: 10px;
+}
+
+/* Styling for doriincommons */
+#hidden {
+    display: none;
 }
 
