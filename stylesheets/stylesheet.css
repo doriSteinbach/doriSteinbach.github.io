@@ -4,6 +4,10 @@ body h1 {
 }
 
 /* Styling for the header. */
+header {
+    background-color:#470024;
+}
+
 header h1 {
     display: inline;
 }
@@ -12,4 +16,8 @@ header h1 {
     display: none;
 }
 
+/* Styling for navigation */
+.navigation p {
+    display: inline;
+}
 
