@@ -1,14 +1,19 @@
-/* Work in Progress header */
-body h1 {
-    font-size:50px;
+/* The page itself. */
+body, html {
+    margin: 0px;
 }
 
 /* Styling for the header. */
 header {
-    background-color:#470024;
+    padding: 20px;
+    background-color:#751975;
 }
 
 header h1 {
+    display: inline;
+}
+
+#follow-menu-button {
     display: inline;
 }
 
@@ -17,7 +22,13 @@ header h1 {
 }
 
 /* Styling for navigation */
+.navigation {
+    background-color: #914791;
+    padding: 10px;
+}
 .navigation p {
     display: inline;
+    margin-left: 5px;
+    margin-right: 10px;
 }
 
