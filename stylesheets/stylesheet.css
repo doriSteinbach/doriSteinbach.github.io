@@ -4,7 +4,7 @@ body, html {
 }
 
 /* Styling for the header. */
-header {
+.header {
     padding: 20px;
     background-color:#751975;
 }
