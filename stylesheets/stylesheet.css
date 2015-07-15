@@ -42,15 +42,17 @@ body{
 /* Styling for navigation */
 .navigation {
     background-color: #914791;
-    padding: 10px;
 }
 .navigation-item {
-    display: inline;
+    display: inline-block;
+    height: 40px;
+    width: 100px;
 }
 .navigation-item a {
     display: inline;
     margin: 10px;
     text-decoration: none;
+    text-align: center;
     color: #FFF;
 }
 .navigation-item a:hover {
