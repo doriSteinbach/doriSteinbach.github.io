@@ -20,4 +20,4 @@ var main = function() {
     });
 }
 
-$(documents).ready(main);
+$(document).ready(main);
