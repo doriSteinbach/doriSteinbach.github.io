@@ -42,11 +42,12 @@ body{
 /* Styling for navigation */
 .navigation {
     background-color: #914791;
+    height: 60px;
 }
 .navigation-item {
     display: inline-block;
-    height: 40px;
-    width: 100px;
+    height: 60px;
+    width: 200px;
 }
 .navigation-item a {
     display: inline;
