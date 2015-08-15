@@ -2,8 +2,7 @@ var main = function() {
     $('.navigation-item').click(function() {
         switch(this.id) {
             case "home":
-                $('.content').innerHTML = "<p>Home</p>";
-                //$('.content').load();
+                $('.content').load("/home.html");
                 break;
             case "commons":
                 $('.content').load("/doriincommons.html");

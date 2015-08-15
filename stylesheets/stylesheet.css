@@ -46,17 +46,17 @@ body{
 }
 .navigation-item {
     display: inline-block;
-    height: 60px;
-    width: 200px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
 }
 .navigation-item a {
     display: inline;
-    margin: 10px;
     text-decoration: none;
-    text-align: center;
     color: #FFF;
+    font-size: 18px;
 }
-.navigation-item a:hover {
+.navigation-item:hover {
     background-color: #751975;
 }
 
